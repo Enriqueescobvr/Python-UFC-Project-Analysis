@@ -18,7 +18,9 @@ Analysis Criteria:
 # Data Sets
 
   UFC-Fight historical data from 1993 to 2021 via Kaggle collected by fans from the offical UFC website. https://www.kaggle.com/datasets/rajeevw/ufcdata/data
+  
   US-States.JSON File Provided by Career Foundrey
+  
   Civilian Unemployment Rate For Time Series Analysis  https://data.nasdaq.com/data/FRED/UNRATE-civilian-unemployment-rate
 
 # Storyboard
