@@ -3,6 +3,7 @@ This repository is a collection of deliverables and reports created for Achievem
 
 # Objectives and Analysis Criteria
 Objective: To build an interactive dashboard that will visually showcase well-curated results of an advanced exploratory analysis conducted in Python.
+
 Analysis Criteria:
 
     Exploratory analysis through visualizations
